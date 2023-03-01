@@ -1,4 +1,5 @@
 # School-Management-System
+Convert all txt files into java files
 INSTRUCTION FOR RUNNING THE PROGRAM:
 1) Download Xammp to provide support for creating and manipulating databases in MySQL.
 2) Download and setup the MySQL connecter.
