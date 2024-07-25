@@ -8,5 +8,11 @@ INSTRUCTION FOR RUNNING THE PROGRAM:
 4) After succesfully connecting the code with the database, the code will function.
 5) Open XAMPP > Start Apache > Start MySQL > Click Admin(MySQL) > Create Database "management" > Create tables "student" & "teacher"
 6) "student" table columns: Name,Enrollment,CGPA,User,Password
-   "teacher" table columns: Name,ID,Salary,User,Password
+7) "teacher" table columns: Name,ID,Salary,User,Password
+   
 X------------------------------------------------------------------------------------------X
+
+## Sample Outputs
+![Output 1](images/output1.png)
+![Output 2](images/output2.png)
+![Output 3](images/output3.png)
